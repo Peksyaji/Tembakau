@@ -1,0 +1,198 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,47660295,,,,47660295,,222910963,,,0
+H5,2017,2017,2017,6,1,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,17920,,,,17920,,154112,,,0
+H5,2017,2017,2017,6,1,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,574799,,,,574799,,2805051,,,0
+H5,2017,2017,2017,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,496362,,,,496362,,3793604,,,0
+H5,2017,2017,2017,6,1,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,143,,,,143,,1842,,,0
+H5,2017,2017,2017,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,460516,,,,460516,,550100,,,0
+H5,2017,2017,2017,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,6606322,,,,6606322,,55513108,,,0
+H5,2017,2017,2017,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,2955830,,,,2955830,,7544767,,,0
+H5,2018,2018,2018,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,32647852,,,,32647852,,148076511,,,0
+H5,2018,2018,2018,6,1,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,19580,,,,19580,,162514,,,0
+H5,2018,2018,2018,6,1,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,245,,,,245,,1674,,,0
+H5,2018,2018,2018,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,73020,,,,73020,,244991,,,0
+H5,2018,2018,2018,6,1,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,1388,,,,1388,,16097,,,0
+H5,2018,2018,2018,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,916778,,,,916778,,1234471,,,0
+H5,2018,2018,2018,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,11247589,,,,11247589,,91744230,,,0
+H5,2018,2018,2018,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,2760950,,,,2760950,,5804535,,,0
+H5,2019,2019,2019,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,33777189,,,,33777189,,165846660,,,0
+H5,2019,2019,2019,6,1,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,60,,,,60,,344,,,0
+H5,2019,2019,2019,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,420599,,,,420599,,1795614,,,0
+H5,2019,2019,2019,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,744500,,,,744500,,1129525,,,0
+H5,2019,2019,2019,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,4074056,,,,4074056,,33322463,,,0
+H5,2019,2019,2019,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,2777235,,,,2777235,,7374169,,,0
+H5,2020,2020,2020,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,36802222,,,,36802222,,158189169,,,0
+H5,2020,2020,2020,6,1,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,26240,,,,26240,,653494,,,0
+H5,2020,2020,2020,6,1,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,14,,,,14,,93,,,0
+H5,2020,2020,2020,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,17452,,,,17452,,36345,,,0
+H5,2020,2020,2020,6,1,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,56,,,,56,,1209,,,0
+H5,2020,2020,2020,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,379000,,,,379000,,634810,,,0
+H5,2020,2020,2020,6,1,1,Import,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,1,,,,1,,22,,,0
+H5,2020,2020,2020,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,5544716,,,,5544716,,44500803,,,0
+H5,2020,2020,2020,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,1838590,,,,1838590,,8897678,,,0
+H4,2012,2012,2012,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,39747781,,,,39747781,,197762132,,,0
+H4,2012,2012,2012,6,1,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,100000,,,,100000,,436334,,,0
+H4,2012,2012,2012,6,1,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,2472010,,,,2472010,,14860189,,,0
+H4,2012,2012,2012,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,6160973,,,,6160973,,44133526,,,0
+H4,2012,2012,2012,6,1,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,176,,,,176,,1605,,,0
+H4,2012,2012,2012,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,212080,,,,212080,,912895,,,0
+H4,2012,2012,2012,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,3987061,,,,3987061,,31025710,,,0
+H4,2012,2012,2012,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,4379295,,,,4379295,,9511784,,,0
+H4,2013,2013,2013,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,32018050,,,,32018050,,181663430,,,0
+H4,2013,2013,2013,6,1,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,66787,,,,66787,,381128,,,0
+H4,2013,2013,2013,6,1,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,414702,,,,414702,,3159479,,,0
+H4,2013,2013,2013,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,4611358,,,,4611358,,34107331,,,0
+H4,2013,2013,2013,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,352580,,,,352580,,1819392,,,0
+H4,2013,2013,2013,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,5702427,,,,5702427,,51607340,,,0
+H4,2013,2013,2013,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,3812076,,,,3812076,,8992669,,,0
+H4,2014,2014,2014,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,29286608,,,,29286608,,167786121,,,0
+H4,2014,2014,2014,6,1,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,5000,,,,5000,,50000,,,0
+H4,2014,2014,2014,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,5081570,,,,5081570,,35337803,,,0
+H4,2014,2014,2014,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,4727193,,,,4727193,,41743661,,,0
+H4,2014,2014,2014,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,2646260,,,,2646260,,5797923,,,0
+H4,2015,2015,2015,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,28521482,,,,28521482,,156161468,,,0
+H4,2015,2015,2015,6,1,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,47180,,,,47180,,1258106,,,0
+H4,2015,2015,2015,6,1,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,19800,,,,19800,,109692,,,0
+H4,2015,2015,2015,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,4522189,,,,4522189,,30650522,,,0
+H4,2015,2015,2015,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,49500,,,,49500,,210375,,,0
+H4,2015,2015,2015,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,4842727,,,,4842727,,41747934,,,0
+H4,2015,2015,2015,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,4599857,,,,4599857,,10762923,,,0
+H4,2016,2016,2016,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,32209500,,,,32209500,,182122884,,,0
+H4,2016,2016,2016,6,1,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,27286,,,,27286,,465048,,,0
+H4,2016,2016,2016,6,1,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,305662,,,,305662,,2323431,,,0
+H4,2016,2016,2016,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,1900698,,,,1900698,,12968126,,,0
+H4,2016,2016,2016,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,176356,,,,176356,,208220,,,0
+H4,2016,2016,2016,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,7062304,,,,7062304,,57790254,,,0
+H4,2016,2016,2016,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,Tobacco; partly or wholly stemmed or stripped,8,Weight in kilograms,1844215,,,,1844215,,5427955,,,0
+H3,2010,2010,2010,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, partly/wholly stemmed/stripped",8,Weight in kilograms,25281275,,,,25281275,,145435872,,,0
+H3,2010,2010,2010,6,1,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, partly/wholly stemmed/stripped",8,Weight in kilograms,457104,,,,457104,,917356,,,0
+H3,2010,2010,2010,6,1,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, partly/wholly stemmed/stripped",8,Weight in kilograms,262812,,,,262812,,1849349,,,0
+H3,2010,2010,2010,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, partly/wholly stemmed/stripped",8,Weight in kilograms,6764995,,,,6764995,,47881203,,,0
+H3,2010,2010,2010,6,1,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,"Tobacco, partly/wholly stemmed/stripped",8,Weight in kilograms,24161,,,,24161,,49529,,,0
+H3,2010,2010,2010,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,"Tobacco, partly/wholly stemmed/stripped",8,Weight in kilograms,1705121,,,,1705121,,3523521,,,0
+H3,2010,2010,2010,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, partly/wholly stemmed/stripped",8,Weight in kilograms,2927321,,,,2927321,,25303243,,,0
+H3,2010,2010,2010,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, partly/wholly stemmed/stripped",8,Weight in kilograms,4515125,,,,4515125,,7772190,,,0
+H3,2011,2011,2011,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, partly/wholly stemmed/stripped",8,Weight in kilograms,40961835,,,,40961835,,200709601,,,0
+H3,2011,2011,2011,6,1,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, partly/wholly stemmed/stripped",8,Weight in kilograms,92160,,,,92160,,434451,,,0
+H3,2011,2011,2011,6,1,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, partly/wholly stemmed/stripped",8,Weight in kilograms,102742,,,,102742,,803374,,,0
+H3,2011,2011,2011,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, partly/wholly stemmed/stripped",8,Weight in kilograms,6869993,,,,6869993,,46392633,,,0
+H3,2011,2011,2011,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,"Tobacco, partly/wholly stemmed/stripped",8,Weight in kilograms,274239,,,,274239,,449068,,,0
+H3,2011,2011,2011,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, partly/wholly stemmed/stripped",8,Weight in kilograms,3467895,,,,3467895,,26136941,,,0
+H3,2011,2011,2011,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, partly/wholly stemmed/stripped",8,Weight in kilograms,5155200,,,,5155200,,8414416,,,0
+H1,1996,1996,1996,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,12086011,,,,12086011,,23674568,,,0
+H1,1996,1996,1996,6,1,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,19199,,,,19199,,74097,,,0
+H1,1996,1996,1996,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,286187,,,,286187,,511540,,,0
+H1,1996,1996,1996,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,100000,,,,100000,,70000,,,0
+H1,1996,1996,1996,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,3515187,,,,3515187,,22360120,,,0
+H1,1996,1996,1996,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,2393375,,,,2393375,,2147617,,,0
+H1,1997,1997,1997,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,16557492,,,,16557492,,56572232,,,0
+H1,1997,1997,1997,6,1,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,168777,,,,168777,,1247800,,,0
+H1,1997,1997,1997,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,430562,,,,430562,,1422166,,,0
+H1,1997,1997,1997,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,1204625,,,,1204625,,948891,,,0
+H1,1997,1997,1997,6,1,1,Import,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,113,,,,113,,691,,,0
+H1,1997,1997,1997,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,1676437,,,,1676437,,11524552,,,0
+H1,1997,1997,1997,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,2673500,,,,2673500,,3826668,,,0
+H1,1998,1998,1998,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,5726914,,,,5726914,,23199200,,,0
+H1,1998,1998,1998,6,1,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,16199,,,,16199,,73820,,,0
+H1,1998,1998,1998,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,2202062,,,,2202062,,5417304,,,0
+H1,1998,1998,1998,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,1644625,,,,1644625,,2705575,,,0
+H1,1998,1998,1998,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,879625,,,,879625,,7126009,,,0
+H1,1998,1998,1998,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,989000,,,,989000,,1712090,,,0
+H1,1999,1999,1999,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,19876765,,,,19876765,,51272860,,,0
+H1,1999,1999,1999,6,1,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,3687,,,,3687,,13125,,,0
+H1,1999,1999,1999,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,1378500,,,,1378500,,3223646,,,0
+H1,1999,1999,1999,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,392312,,,,392312,,333479,,,0
+H1,1999,1999,1999,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,810187,,,,810187,,6827986,,,0
+H1,1999,1999,1999,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,1994375,,,,1994375,,1745231,,,0
+H1,2000,2000,2000,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,17374801,,,,17374801,,49791098,,,0
+H1,2000,2000,2000,6,1,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,66336,,,,66336,,127271,,,0
+H1,2000,2000,2000,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,643402,,,,643402,,1612957,,,0
+H1,2000,2000,2000,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,373613,,,,373613,,188445,,,0
+H1,2000,2000,2000,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,1172541,,,,1172541,,9620002,,,0
+H1,2000,2000,2000,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,1801514,,,,1801514,,2176918,,,0
+H1,2001,2001,2001,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,28639370,,,,28639370,,73131148,,,0
+H1,2001,2001,2001,6,1,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,12000,,,,12000,,2400,,,0
+H1,2001,2001,2001,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,626518,,,,626518,,1711888,,,0
+H1,2001,2001,2001,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,1134341,,,,1134341,,707454,,,0
+H1,2001,2001,2001,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,2158642,,,,2158642,,13210493,,,0
+H1,2001,2001,2001,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,1664396,,,,1664396,,1713373,,,0
+H1,2002,2002,2002,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,15910250,,,,15910250,,36209164,,,0
+H1,2002,2002,2002,6,1,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,980,,,,980,,2940,,,0
+H1,2002,2002,2002,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,980897,,,,980897,,2384087,,,0
+H1,2002,2002,2002,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,3452457,,,,3452457,,1466952,,,0
+H1,2002,2002,2002,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,922568,,,,922568,,6674875,,,0
+H1,2002,2002,2002,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,1254740,,,,1254740,,1229157,,,0
+H1,2003,2003,2003,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,13434596,,,,13434596,,31636337,,,0
+H1,2003,2003,2003,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,2414391,,,,2414391,,5836329,,,0
+H1,2003,2003,2003,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,2232268,,,,2232268,,931287,,,0
+H1,2003,2003,2003,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,1593806,,,,1593806,,10842457,,,0
+H1,2003,2003,2003,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,1898427,,,,1898427,,1703052,,,0
+H1,2004,2004,2004,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,13235820,,,,13235820,,30252114,,,0
+H1,2004,2004,2004,6,1,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,608,,,,608,,145,,,0
+H1,2004,2004,2004,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,2569087,,,,2569087,,6881071,,,0
+H1,2004,2004,2004,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,919620,,,,919620,,354383,,,0
+H1,2004,2004,2004,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,3234667,,,,3234667,,24251655,,,0
+H1,2004,2004,2004,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,2818358,,,,2818358,,2441511,,,0
+H1,2005,2005,2005,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,16510700,,,,16510700,,42877313,,,0
+H1,2005,2005,2005,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,1092474,,,,1092474,,2749021,,,0
+H1,2005,2005,2005,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,1693120,,,,1693120,,3026492,,,0
+H1,2005,2005,2005,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,2535777,,,,2535777,,18241833,,,0
+H1,2005,2005,2005,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,3014648,,,,3014648,,2862243,,,0
+H1,2006,2006,2006,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,14831563,,,,14831563,,36743197,,,0
+H1,2006,2006,2006,6,1,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,16400,,,,16400,,85368,,,0
+H1,2006,2006,2006,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,2044627,,,,2044627,,5459713,,,0
+H1,2006,2006,2006,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,3022140,,,,3022140,,4166612,,,0
+H1,2006,2006,2006,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,2166882,,,,2166882,,13077599,,,0
+H1,2006,2006,2006,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,6571009,,,,6571009,,5203251,,,0
+H1,2007,2007,2007,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,24033465,,,,24033465,,83844750,,,0
+H1,2007,2007,2007,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,2041720,,,,2041720,,6973215,,,0
+H1,2007,2007,2007,6,1,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,69685,,,,69685,,82899,,,0
+H1,2007,2007,2007,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,1395332,,,,1395332,,1771379,,,0
+H1,2007,2007,2007,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,1624196,,,,1624196,,10399150,,,0
+H1,2007,2007,2007,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,4066181,,,,4066181,,5370924,,,0
+H1,2008,2008,2008,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,21814849,,,,21814849,,80839118,,,0
+H1,2008,2008,2008,6,1,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,4808,,,,4808,,39016,,,0
+H1,2008,2008,2008,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,2948675,,,,2948675,,16824716,,,0
+H1,2008,2008,2008,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,1784232,,,,1784232,,1638237,,,0
+H1,2008,2008,2008,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,3948180,,,,3948180,,26359600,,,0
+H1,2008,2008,2008,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,6013398,,,,6013398,,8727761,,,0
+H1,2009,2009,2009,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,22336337,,,,22336337,,121418269,,,0
+H1,2009,2009,2009,6,1,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,107543,,,,107543,,519805,,,0
+H1,2009,2009,2009,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,3879080,,,,3879080,,22355850,,,0
+H1,2009,2009,2009,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,895262,,,,895262,,2073389,,,0
+H1,2009,2009,2009,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,3261193,,,,3261193,,28193252,,,0
+H1,2009,2009,2009,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,5376202,,,,5376202,,9737640,,,0
+H0,1989,1989,1989,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,118003,,,,118003,,90889,,,0
+H0,1989,1989,1989,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,145031,,,,145031,,424000,,,0
+H0,1989,1989,1989,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,627187,,,,627187,,2569215,,,0
+H0,1989,1989,1989,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,1891312,,,,1891312,,1730000,,,0
+H0,1990,1990,1990,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,2320187,,,,2320187,,1354924,,,0
+H0,1990,1990,1990,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,106691,,,,106691,,329639,,,0
+H0,1990,1990,1990,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,975875,,,,975875,,3451094,,,0
+H0,1990,1990,1990,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,959937,,,,959937,,1267795,,,0
+H0,1991,1991,1991,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,2518812,,,,2518812,,3437779,,,0
+H0,1991,1991,1991,6,1,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,12562,,,,12562,,108141,,,0
+H0,1991,1991,1991,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,83316,,,,83316,,227725,,,0
+H0,1991,1991,1991,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,2678375,,,,2678375,,5187968,,,0
+H0,1991,1991,1991,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,1217000,,,,1217000,,1483090,,,0
+H0,1992,1992,1992,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,5823199,,,,5823199,,13580352,,,0
+H0,1992,1992,1992,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,191398,,,,191398,,595906,,,0
+H0,1992,1992,1992,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,3197937,,,,3197937,,12935421,,,0
+H0,1992,1992,1992,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,3044500,,,,3044500,,2848110,,,0
+H0,1993,1993,1993,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,7689625,,,,7689625,,19615130,,,0
+H0,1993,1993,1993,6,1,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,349250,,,,349250,,218279,,,0
+H0,1993,1993,1993,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,200011,,,,200011,,526604,,,0
+H0,1993,1993,1993,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,853625,,,,853625,,746262,,,0
+H0,1993,1993,1993,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,3363062,,,,3363062,,11911968,,,0
+H0,1993,1993,1993,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,3318312,,,,3318312,,3235613,,,0
+H0,1994,1994,1994,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,3942437,,,,3942437,,8217044,,,0
+H0,1994,1994,1994,6,1,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,10187,,,,10187,,81623,,,0
+H0,1994,1994,1994,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,164160,,,,164160,,509915,,,0
+H0,1994,1994,1994,6,1,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,99996,,,,99996,,89996,,,0
+H0,1994,1994,1994,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,4137460,,,,4137460,,13430257,,,0
+H0,1994,1994,1994,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,1554062,,,,1554062,,2713378,,,0
+H0,1995,1995,1995,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,8069921,,,,8069921,,16304384,,,0
+H0,1995,1995,1995,6,1,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,17199,,,,17199,,105731,,,0
+H0,1995,1995,1995,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,191906,,,,191906,,554777,,,0
+H0,1995,1995,1995,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,3861375,,,,3861375,,15140735,,,0
+H0,1995,1995,1995,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,240120,"Tobacco, unmanufactured, stemmed or stripped",8,Weight in kilograms,2063812,,,,2063812,,3128385,,,0

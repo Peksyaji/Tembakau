@@ -1,0 +1,226 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,388349,,,,388349,,13495892,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,75018,,,,75018,,599335,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,138998,,,,138998,,3597308,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,11271615,,,,11271615,,215170781,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,24,,,,24,,1901,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,39582,,,,39582,,219660,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,59007,,,,59007,,674136,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,5536,,,,5536,,283675,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,880935,,,,880935,,8501206,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,389316,,,,389316,,16483814,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,107022,,,,107022,,697054,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,4901,,,,4901,,159314,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,11434609,,,,11434609,,218432823,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,80,,,,80,,3807,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,14664,,,,14664,,192560,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,5126,,,,5126,,81200,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,12479,,,,12479,,583762,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,684307,,,,684307,,7447154,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,304463,,,,304463,,11085938,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,510987,,,,510987,,6451360,,,6
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,23611,,,,23611,,467446,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,9346501,,,,9346501,,135370822,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,37,,,,37,,2072,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,17667,,,,17667,,257050,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,338,,,,338,,20456,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,7870,,,,7870,,414787,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,740768,,,,740768,,8427497,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,58681,,,,58681,,2202596,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,787690,,,,787690,,11440233,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,976,,,,976,,68668,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,8322639,,,,8322639,,96856540,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,35,,,,35,,1802,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,17466,,,,17466,,255605,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,4,,,,4,,145,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,646,,,,646,,29347,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,568614,,,,568614,,7947053,,,0
+H4,2012,2012,2012,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,303085,,,,303085,,6993032,,,0
+H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,69172,,,,69172,,389800,,,0
+H4,2012,2012,2012,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,9243,,,,9243,,378980,,,0
+H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,10199935,,,,10199935,,158594969,,,0
+H4,2012,2012,2012,4,0,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,11,,,,11,,704,,,0
+H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,10413,,,,10413,,153700,,,0
+H4,2012,2012,2012,4,0,1,Import,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,2,,,,2,,41,,,0
+H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,328121,,,,328121,,4927035,,,0
+H4,2012,2012,2012,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,3,,,,3,,90,,,0
+H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,673285,,,,673285,,9063266,,,0
+H4,2013,2013,2013,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,621242,,,,621242,,9797141,,,0
+H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,43051,,,,43051,,457345,,,0
+H4,2013,2013,2013,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,3465,,,,3465,,156501,,,0
+H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,10808828,,,,10808828,,197383381,,,0
+H4,2013,2013,2013,4,0,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,5,,,,5,,180,,,0
+H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,5880,,,,5880,,75000,,,0
+H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,381558,,,,381558,,4751301,,,0
+H4,2013,2013,2013,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,118362,,,,118362,,650008,,,0
+H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,696180,,,,696180,,8755533,,,0
+H4,2014,2014,2014,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,391182,,,,391182,,11545260,,,0
+H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,2,,,,2,,32,,,0
+H4,2014,2014,2014,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,1544,,,,1544,,69246,,,0
+H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,11842654,,,,11842654,,215071911,,,0
+H4,2014,2014,2014,4,0,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,3148,,,,3148,,151162,,,0
+H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,5487,,,,5487,,76000,,,0
+H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,294649,,,,294649,,3530946,,,0
+H4,2014,2014,2014,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,40,,,,40,,2390,,,0
+H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,173149,,,,173149,,2612767,,,0
+H4,2015,2015,2015,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,409668,,,,409668,,12015319,,,0
+H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,17558,,,,17558,,90029,,,0
+H4,2015,2015,2015,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,5297,,,,5297,,28305,,,0
+H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,12616477,,,,12616477,,215802800,,,0
+H4,2015,2015,2015,4,0,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,41,,,,41,,2401,,,0
+H4,2015,2015,2015,4,0,1,Import,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,2,,,,2,,90,,,0
+H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,228403,,,,228403,,2723017,,,0
+H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,483082,,,,483082,,7260168,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,341770,,,,341770,,10395878,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,237,,,,237,,924,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,108956,,,,108956,,2146321,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,12354509,,,,12354509,,200318598,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,56,,,,56,,2670,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,2942,,,,2942,,37205,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,77830,,,,77830,,828158,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,214,,,,214,,11905,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes; of tobacco or of tobacco substitutes",8,Weight in kilograms,922798,,,,922798,,10559098,,,0
+H3,2010,2010,2010,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes.",8,Weight in kilograms,67977,,,,67977,,1820276,,,0
+H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes.",8,Weight in kilograms,77,,,,77,,484,,,0
+H3,2010,2010,2010,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes.",8,Weight in kilograms,2426,,,,2426,,79556,,,0
+H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes.",8,Weight in kilograms,10868462,,,,10868462,,121858190,,,0
+H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes.",8,Weight in kilograms,1320,,,,1320,,22860,,,0
+H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes.",8,Weight in kilograms,309364,,,,309364,,4557928,,,0
+H3,2010,2010,2010,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes.",8,Weight in kilograms,131,,,,131,,2780,,,0
+H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes.",8,Weight in kilograms,605659,,,,605659,,7635012,,,0
+H3,2011,2011,2011,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes.",8,Weight in kilograms,74342,,,,74342,,1900259,,,0
+H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes.",8,Weight in kilograms,529,,,,529,,25535,,,0
+H3,2011,2011,2011,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes.",8,Weight in kilograms,1515,,,,1515,,65546,,,0
+H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes.",8,Weight in kilograms,10025924,,,,10025924,,137923524,,,0
+H3,2011,2011,2011,4,0,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes.",8,Weight in kilograms,4,,,,4,,300,,,0
+H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes.",8,Weight in kilograms,2500,,,,2500,,39878,,,0
+H3,2011,2011,2011,4,0,1,Import,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes.",8,Weight in kilograms,8,,,,8,,67,,,0
+H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes.",8,Weight in kilograms,337004,,,,337004,,5607386,,,0
+H3,2011,2011,2011,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes.",8,Weight in kilograms,20528,,,,20528,,105468,,,0
+H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes.",8,Weight in kilograms,653433,,,,653433,,8422813,,,0
+H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,5000000,,,,5000,,41934,,,0
+H1,1996,1996,1996,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,5500000,,,,5500,,9846,,,0
+H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,3381499904,,,,3381500,,47936160,,,0
+H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,66828000,,,,66828,,197429,,,0
+H1,1996,1996,1996,4,0,1,Import,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,156000,,,,156,,783,,,0
+H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,93757000,,,,93757,,1325013,,,0
+H1,1996,1996,1996,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,776532,,,,777,,11024,,,0
+H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,300049792,,,,300050,,3146196,,,0
+H1,1997,1997,1997,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,41000,,,,41,,1252,,,0
+H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,2847613696,,,,2847614,,40699164,,,0
+H1,1997,1997,1997,4,0,1,Import,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,152905,,,,153,,813,,,0
+H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,52976000,,,,52976,,552311,,,0
+H1,1997,1997,1997,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,2016999,,,,2017,,20084,,,0
+H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,273443648,,,,273444,,3035113,,,0
+H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,2459925760,,,,2459926,,25968118,,,0
+H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,37357152,,,,37357,,236749,,,0
+H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,488142688,,,,488143,,5279310,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,8373738,,,,8374,,25480,,,0
+H1,1999,1999,1999,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,6016845,,,,6017,,22192,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,5342448247,,,,5342448,,48829165,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,13062000,,,,13062,,33104,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,49010530,,,,49011,,361853,,,0
+H1,1999,1999,1999,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,60000,,,,60,,1825,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,394490117,,,,394490,,4788712,,,0
+H1,2000,2000,2000,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,501480,,,,501480,,1516977,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,6313,,,,6313,,19045,,,0
+H1,2000,2000,2000,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,830,,,,830,,32688,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,5269579,,,,5269579,,63068021,,,0
+H1,2000,2000,2000,4,0,1,Import,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,65,,,,65,,144,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,61930,,,,61930,,525309,,,0
+H1,2000,2000,2000,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,2,,,,2,,106,,,0
+H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,609925,,,,609925,,6210805,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,288000,,,,288000,,570240,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,11585,,,,11585,,107500,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,614,,,,614,,19657,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,5388362,,,,5388362,,58776440,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,30697,,,,30697,,290207,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,787,,,,787,,5614,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,687055,,,,687055,,5235877,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,6007,,,,6007,,48620,,,0
+H1,2002,2002,2002,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,436,,,,436,,13244,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,3153597,,,,3153597,,33011424,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,94050,,,,94050,,56430,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,25990,,,,25990,,278160,,,0
+H1,2002,2002,2002,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,53706,,,,53706,,203839,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,371771,,,,371771,,4052263,,,0
+H1,2003,2003,2003,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,3078,,,,3078,,36574,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,3615562,,,,3615562,,41484161,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,47750,,,,47750,,532000,,,0
+H1,2003,2003,2003,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,43,,,,43,,1170,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,370017,,,,370017,,4237058,,,0
+H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,677,,,,677,,34371,,,0
+H1,2004,2004,2004,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,1096,,,,1096,,7191,,,0
+H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,3750462,,,,3750462,,36334393,,,0
+H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,40482,,,,40482,,482432,,,0
+H1,2004,2004,2004,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,1012,,,,1012,,2135,,,0
+H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,392517,,,,392517,,5618813,,,0
+H1,2005,2005,2005,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,206,,,,206,,1854,,,0
+H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,3074179,,,,3074179,,30266916,,,0
+H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,77601,,,,77601,,903944,,,0
+H1,2005,2005,2005,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,59416,,,,59416,,302028,,,0
+H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,459850,,,,459850,,7283376,,,0
+H1,2006,2006,2006,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,3942,,,,3942,,75520,,,0
+H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,5542573,,,,5542573,,43230568,,,0
+H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,82109,,,,82109,,989070,,,0
+H1,2006,2006,2006,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,2,,,,2,,174,,,0
+H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,366471,,,,366471,,6652384,,,0
+H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,6193,,,,6193,,25475,,,0
+H1,2007,2007,2007,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,914,,,,914,,19426,,,0
+H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,6630522,,,,6630522,,55542182,,,0
+H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,398,,,,398,,4395,,,0
+H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,128536,,,,128536,,2080139,,,0
+H1,2007,2007,2007,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,6474,,,,6474,,27944,,,0
+H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,589622,,,,589622,,11165432,,,0
+H1,2008,2008,2008,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,52768,,,,52768,,1112131,,,0
+H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,2791,,,,2791,,15482,,,0
+H1,2008,2008,2008,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,716,,,,716,,15152,,,0
+H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,6844783,,,,6844783,,58815060,,,0
+H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,623,,,,623,,22620,,,0
+H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,165280,,,,165280,,1985860,,,0
+H1,2008,2008,2008,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,3580,,,,3580,,49525,,,0
+H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,528926,,,,528926,,9703991,,,0
+H1,2009,2009,2009,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,49039,,,,49039,,1172117,,,0
+H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,12778,,,,12778,,69860,,,0
+H1,2009,2009,2009,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,1,,,,1,,2,,,0
+H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,9382924,,,,9382924,,95332254,,,0
+H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,1320,,,,1320,,22860,,,0
+H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,226707,,,,226707,,3203723,,,0
+H1,2009,2009,2009,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,8,,,,8,,159,,,0
+H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",8,Weight in kilograms,548342,,,,548342,,8338419,,,0
+H0,1989,1989,1989,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,827588096,,,,827588,,5800000,,,0
+H0,1989,1989,1989,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,97593000,,,,97593,,730000,,,0
+H0,1989,1989,1989,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,4078380,,,,4078,,67094,,,0
+H0,1989,1989,1989,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,102406000,,,,102406,,819000,,,0
+H0,1990,1990,1990,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,1246508416,,,,1246508,,14007667,,,0
+H0,1990,1990,1990,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,69640000,,,,69640,,572261,,,0
+H0,1990,1990,1990,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,2312000,,,,2312,,9304,,,0
+H0,1990,1990,1990,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,151971520,,,,151972,,1246648,,,0
+H0,1991,1991,1991,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,2575887872,,,,2575888,,30106992,,,0
+H0,1991,1991,1991,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,100613000,,,,100613,,912167,,,0
+H0,1991,1991,1991,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,351000,,,,351,,7719,,,0
+H0,1991,1991,1991,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,130590224,,,,130590,,1257846,,,0
+H0,1992,1992,1992,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,2884195840,,,,2884196,,31636704,,,0
+H0,1992,1992,1992,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,43050000,,,,43050,,205000,,,0
+H0,1992,1992,1992,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,118925000,,,,118925,,1122013,,,0
+H0,1992,1992,1992,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,9875000,,,,9875,,104587,,,0
+H0,1992,1992,1992,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,97851000,,,,97851,,946788,,,0
+H0,1993,1993,1993,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,11000000,,,,11000,,25386,,,0
+H0,1993,1993,1993,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,2327303424,,,,2327303,,26118384,,,0
+H0,1993,1993,1993,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,419500000,,,,419500,,1862839,,,0
+H0,1993,1993,1993,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,72094672,,,,72095,,698050,,,0
+H0,1993,1993,1993,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,4019529,,,,4020,,107221,,,0
+H0,1993,1993,1993,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,204127920,,,,204128,,1606128,,,0
+H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,20269000,,,,20269,,45373,,,0
+H0,1994,1994,1994,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,35871000,,,,35871,,404520,,,0
+H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,910731136,,,,910731,,12021658,,,0
+H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,34792000,,,,34792,,471986,,,0
+H0,1994,1994,1994,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,15138405,,,,15138,,324773,,,0
+H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,265568176,,,,265568,,2433072,,,0
+H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,84402000,,,,84402,,434250,,,0
+H0,1995,1995,1995,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,5437000,,,,5437,,12564,,,0
+H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,4318883840,,,,4318884,,45429136,,,0
+H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,33804000,,,,33804,,102570,,,0
+H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,32933000,,,,32933,,294802,,,0
+H0,1995,1995,1995,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,2750000,,,,2750,,79201,,,0
+H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2402,"Cigars, cigarettes etc, tobacco or tobacco substitute",5,Number of items,254093680,,,,254094,,2355388,,,0
