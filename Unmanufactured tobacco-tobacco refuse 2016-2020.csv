@@ -1,0 +1,545 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,119544903,,,,119544903,,618664571,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,29134041,,,,29134041,,132388393,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,8,Albania,ALB,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,9600,,,,9600,,47160,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,12,Algeria,DZA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,100000,,,,100000,,198250,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,32,Argentina,ARG,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,727394,,,,727394,,2797292,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,32,Argentina,ARG,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,9000,,,,9000,,89420,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,56,,,,56,,224,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,154902,,,,154902,,452997,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,12600,,,,12600,,22050,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,72235,,,,72235,,284636,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,3255298,,,,3255298,,11238067,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,15345855,,,,15345855,,99634276,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,165107,,,,165107,,832425,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,90,Solomon Isds,SLB,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,23940,,,,23940,,203011,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,100,Bulgaria,BGR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,81523,,,,81523,,598979,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,104,Myanmar,MMR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,174982,,,,174982,,575409,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,112,Belarus,BLR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,53460,,,,53460,,73240,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,69813,,,,69813,,166627,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,30231,,,,30231,,166101,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,14400,,,,14400,,10046,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,233260,,,,233260,,10586443,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1052795,,,,1052795,,18325726,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,56524421,,,,56524421,,247506499,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,105693,,,,105693,,1065389,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,18997,,,,18997,,122630,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,191,Croatia,HRV,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,709943,,,,709943,,3816157,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,192,Cuba,CUB,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,10727,,,,10727,,63740,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,39600,,,,39600,,186120,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,214,Dominican Rep.,DOM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,105191,,,,105191,,3288173,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,214,Dominican Rep.,DOM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,5616004,,,,5616004,,15418402,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,218,Ecuador,ECU,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,205171,,,,205171,,8976259,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,242,Fiji,FJI,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,19180,,,,19180,,157067,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,251,France,FRA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,162882,,,,162882,,433645,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,251,France,FRA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,198000,,,,198000,,307401,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,205698,,,,205698,,6105046,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,901896,,,,901896,,25969595,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,300,Greece,GRC,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,606444,,,,606444,,3553327,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,340,Honduras,HND,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,30482,,,,30482,,63840,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,340,Honduras,HND,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,82764,,,,82764,,917561,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,20000,,,,20000,,96242,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,55100,,,,55100,,27550,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,509,,,,509,,4820,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,131340,,,,131340,,405845,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,364,Iran,IRN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,561330,,,,561330,,2197655,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1237963,,,,1237963,,7920413,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,525875,,,,525875,,1519712,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1599,,,,1599,,25744,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,398,Kazakhstan,KAZ,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,38,,,,38,,343,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,30,,,,30,,200,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,45288,,,,45288,,44322,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,404,Kenya,KEN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,449796,,,,449796,,615765,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,231,,,,231,,1924,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,104900,,,,104900,,114498,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,418,Lao People's Dem. Rep.,LAO,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,232260,,,,232260,,463146,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,418,Lao People's Dem. Rep.,LAO,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,15099,,,,15099,,54356,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,422,Lebanon,LBN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,47180,,,,47180,,60714,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,446,"China, Macao SAR",MAC,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1,,,,1,,1,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,454,Malawi,MWI,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,2642337,,,,2642337,,12221486,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,454,Malawi,MWI,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,40000,,,,40000,,88000,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,574819,,,,574819,,2805362,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,518966,,,,518966,,3874978,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,484,Mexico,MEX,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,34669,,,,34669,,1359569,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,39600,,,,39600,,198000,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,13230,,,,13230,,80433,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,508,Mozambique,MOZ,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,748806,,,,748806,,3248929,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,508,Mozambique,MOZ,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,40000,,,,40000,,88000,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,493728,,,,493728,,2939030,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1194855,,,,1194855,,6540989,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,18,,,,18,,281,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,90,,,,90,,3320,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,558,Nicaragua,NIC,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,345504,,,,345504,,3260028,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,696137,,,,696137,,1963041,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,598,Papua New Guinea,PNG,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,22540,,,,22540,,203386,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,600,Paraguay,PRY,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,10,,,,10,,6,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,3831742,,,,3831742,,16531809,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,510599,,,,510599,,2959064,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,616,Poland,POL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,91,,,,91,,1927,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,616,Poland,POL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,69875,,,,69875,,2524217,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1025,,,,1025,,43806,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,642,Romania,ROU,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,40320,,,,40320,,16128,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,244,,,,244,,2886,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,480516,,,,480516,,568100,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,686,Senegal,SEN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,98000,,,,98000,,87940,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,688,Serbia,SRB,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,36,,,,36,,144,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,688,Serbia,SRB,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,19200,,,,19200,,109248,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,699,India,IND,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,4499440,,,,4499440,,17780538,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,153600,,,,153600,,617665,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1365642,,,,1365642,,6713621,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,703,Slovakia,SVK,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,500,,,,500,,5520,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,4771103,,,,4771103,,13856409,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,2115452,,,,2115452,,4789377,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,705,Slovenia,SVN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,19800,,,,19800,,36630,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,204018,,,,204018,,530887,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,28800,,,,28800,,11520,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,716,Zimbabwe,ZWE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,6425072,,,,6425072,,34852622,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,201065,,,,201065,,1037116,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,85346,,,,85346,,1022990,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,752,Sweden,SWE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,18,,,,18,,1249,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,118171,,,,118171,,757579,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,3,,,,3,,7,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1884762,,,,1884762,,8341737,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,20070,,,,20070,,79933,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,650676,,,,650676,,3993941,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,788,Tunisia,TUN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,215000,,,,215000,,437300,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,3352295,,,,3352295,,22754332,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,77120,,,,77120,,178647,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,800,Uganda,UGA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,54712,,,,54712,,303218,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,16,,,,16,,228,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,807,North Macedonia,MKD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,625195,,,,625195,,4092551,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,2603556,,,,2603556,,3713879,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,432705,,,,432705,,3123361,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,158800,,,,158800,,742746,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,834,United Rep. of Tanzania,TZA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1754069,,,,1754069,,6848777,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,834,United Rep. of Tanzania,TZA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,79200,,,,79200,,459360,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,7414660,,,,7414660,,58050821,,,0
+H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,5223717,,,,5223717,,10228536,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,860,Uzbekistan,UZB,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,540,,,,540,,2214,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,894,Zambia,ZMB,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1128772,,,,1128772,,6161052,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,121394806,,,,121394806,,695714742,,,6
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,32308965,,,,32308965,,169066350,,,6
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,12,Algeria,DZA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,54000,,,,54000,,174960,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,32,Argentina,ARG,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,728927,,,,728927,,3730208,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,21792,,,,21792,,91415,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,30440,,,,30440,,54920,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,41436,,,,41436,,265693,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,3792537,,,,3792537,,30325189,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,21772600,,,,21772600,,135514908,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,100,Bulgaria,BGR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,335682,,,,335682,,3056035,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,100,Bulgaria,BGR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,78293,,,,78293,,101781,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,104,Myanmar,MMR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,352870,,,,352870,,1144986,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,106800,,,,106800,,419324,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,308510,,,,308510,,944988,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,149367,,,,149367,,9680998,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1422404,,,,1422404,,26808725,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,38555910,,,,38555910,,169232939,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,19580,,,,19580,,162516,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,7184,,,,7184,,38882,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,191,Croatia,HRV,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,356400,,,,356400,,1941581,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,192,Cuba,CUB,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,28832,,,,28832,,170308,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,38,,,,38,,536,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,11520,,,,11520,,138240,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,29147,,,,29147,,114313,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,212,Dominica,DMA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,44,,,,44,,763,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,214,Dominican Rep.,DOM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,149907,,,,149907,,5983345,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,214,Dominican Rep.,DOM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,7237131,,,,7237131,,23996680,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,218,Ecuador,ECU,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,90883,,,,90883,,4242375,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,251,France,FRA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,198018,,,,198018,,1457317,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,251,France,FRA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,126000,,,,126000,,488583,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,242787,,,,242787,,12290476,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,695238,,,,695238,,23022322,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,300,Greece,GRC,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,2050637,,,,2050637,,13034269,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,320,Guatemala,GTM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,35674,,,,35674,,189095,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,332,Haiti,HTI,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,37500,,,,37500,,21000,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,340,Honduras,HND,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,55521,,,,55521,,116280,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,340,Honduras,HND,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,67707,,,,67707,,1495404,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,0,,,,0,,1,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,25200,,,,25200,,227967,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,129720,,,,129720,,221453,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,364,Iran,IRN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,26730,,,,26730,,110502,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,2180741,,,,2180741,,15242107,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,587011,,,,587011,,2015921,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,5339,,,,5339,,6708,,,6
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,351,,,,351,,8694,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1152,,,,1152,,6137,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,29750,,,,29750,,91555,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,404,Kenya,KEN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,19860,,,,19860,,108036,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,36,,,,36,,264,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,649780,,,,649780,,2297266,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,422,Lebanon,LBN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,7,,,,7,,132,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,440,Lithuania,LTU,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,17820,,,,17820,,41877,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,454,Malawi,MWI,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,2894321,,,,2894321,,14514739,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,6569,,,,6569,,3364,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,149490,,,,149490,,381551,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,470,Malta,MLT,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,10000,,,,10000,,20000,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,480,Mauritius,MUS,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,19800,,,,19800,,109692,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,484,Mexico,MEX,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,38991,,,,38991,,940944,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,19800,,,,19800,,78804,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,142020,,,,142020,,901840,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,504,Morocco,MAR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,19800,,,,19800,,106920,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,504,Morocco,MAR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,108000,,,,108000,,318600,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,508,Mozambique,MOZ,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1001961,,,,1001961,,4067142,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,565706,,,,565706,,7445098,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1976317,,,,1976317,,11635520,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,137,,,,137,,2872,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,558,Nicaragua,NIC,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,15967,,,,15967,,38760,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,558,Nicaragua,NIC,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,560753,,,,560753,,4837440,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,906501,,,,906501,,2457697,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,598,Papua New Guinea,PNG,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,12,,,,12,,24,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,600,Paraguay,PRY,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,36573,,,,36573,,89602,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,600,Paraguay,PRY,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,2,,,,2,,4,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,4711246,,,,4711246,,24109445,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1169500,,,,1169500,,7307126,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,616,Poland,POL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,99433,,,,99433,,691920,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,616,Poland,POL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,5626,,,,5626,,858357,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1033,,,,1033,,4459,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1388,,,,1388,,16097,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1083138,,,,1083138,,1411384,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,688,Serbia,SRB,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,77,,,,77,,390,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,699,India,IND,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,4126981,,,,4126981,,18558951,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,699,India,IND,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1,,,,1,,3,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,174662,,,,174662,,1167413,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1446113,,,,1446113,,6325203,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1825368,,,,1825368,,5203521,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,2460764,,,,2460764,,4713260,,,6
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,481857,,,,481857,,2663706,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,716,Zimbabwe,ZWE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,14501681,,,,14501681,,77270395,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,51877,,,,51877,,1148020,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,105000,,,,105000,,2240160,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,3696,,,,3696,,50202,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,12729,,,,12729,,754091,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,2674861,,,,2674861,,11483739,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,14816,,,,14816,,130000,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,776,Tonga,TON,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,84,,,,84,,302,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,19926,,,,19926,,138024,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,371097,,,,371097,,1847623,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,788,Tunisia,TUN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,353460,,,,353460,,711983,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,4843990,,,,4843990,,34755665,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,49050,,,,49050,,106137,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,800,Uganda,UGA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,19800,,,,19800,,113454,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,16,,,,16,,131,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,807,North Macedonia,MKD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1011997,,,,1011997,,6720218,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1507998,,,,1507998,,2306987,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,9,,,,9,,259,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,7412,,,,7412,,29648,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,834,United Rep. of Tanzania,TZA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1971660,,,,1971660,,10278642,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,11618557,,,,11618557,,92975103,,,0
+H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,5423370,,,,5423370,,9587742,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,894,Zambia,ZMB,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,215954,,,,215954,,320729,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,110923010,,,,110923010,,580359865,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,33265738,,,,33265738,,201976383,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,32,Argentina,ARG,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,829551,,,,829551,,3516332,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,40,Austria,AUT,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,12,,,,12,,68,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,792018,,,,792018,,4838220,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,10080,,,,10080,,17640,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,55930,,,,55930,,217077,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,3829749,,,,3829749,,40912724,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,21064798,,,,21064798,,130786933,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,10400,,,,10400,,144700,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,100,Bulgaria,BGR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,155540,,,,155540,,1562437,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,104,Myanmar,MMR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,717501,,,,717501,,2311345,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,763134,,,,763134,,2888099,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,117600,,,,117600,,264480,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,39600,,,,39600,,295668,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,140,Central African Rep.,CAF,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,39056,,,,39056,,218100,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,61237,,,,61237,,5193238,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1377500,,,,1377500,,23629781,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,46007417,,,,46007417,,183796172,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,50,,,,50,,1060,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,120,,,,120,,1956,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,191,Croatia,HRV,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,198000,,,,198000,,1116887,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,192,Cuba,CUB,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,5195,,,,5195,,42417,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,39610,,,,39610,,186922,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,214,Dominican Rep.,DOM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,133046,,,,133046,,5354532,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,214,Dominican Rep.,DOM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,6184584,,,,6184584,,24114767,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,218,Ecuador,ECU,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,251242,,,,251242,,10490222,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,242,Fiji,FJI,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,49610,,,,49610,,344645,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,251,France,FRA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,138602,,,,138602,,839968,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,251,France,FRA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,161640,,,,161640,,511312,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,268,Georgia,GEO,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,100,,,,100,,2536,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,217362,,,,217362,,13003703,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,851357,,,,851357,,21865834,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,300,Greece,GRC,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,355566,,,,355566,,1577508,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,320,Guatemala,GTM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,53460,,,,53460,,272397,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,340,Honduras,HND,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,18261,,,,18261,,38380,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,340,Honduras,HND,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,54081,,,,54081,,1579725,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,46,,,,46,,116,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,102602,,,,102602,,630139,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,166140,,,,166140,,336630,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1847329,,,,1847329,,13005128,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,598578,,,,598578,,1824843,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,220,,,,220,,5254,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,398,Kazakhstan,KAZ,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,6,,,,6,,74,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,22,,,,22,,259,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,191009,,,,191009,,478191,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,404,Kenya,KEN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,268215,,,,268215,,1558450,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,11,,,,11,,145,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,632228,,,,632228,,2939321,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,418,Lao People's Dem. Rep.,LAO,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,19800,,,,19800,,77616,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,422,Lebanon,LBN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,21780,,,,21780,,22869,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,454,Malawi,MWI,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1081147,,,,1081147,,4766969,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,121,,,,121,,927,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,581562,,,,581562,,2052240,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,480,Mauritius,MUS,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,39600,,,,39600,,219384,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,484,Mexico,MEX,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,13412,,,,13412,,540473,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,48330,,,,48330,,300186,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,508,Mozambique,MOZ,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,789439,,,,789439,,4150534,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,328758,,,,328758,,7668489,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1885911,,,,1885911,,13312868,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,558,Nicaragua,NIC,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,17740,,,,17740,,37155,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,558,Nicaragua,NIC,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,509361,,,,509361,,5182461,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1305753,,,,1305753,,2796814,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,598,Papua New Guinea,PNG,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,8,,,,8,,5,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,2343484,,,,2343484,,7116924,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,619823,,,,619823,,4820239,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,616,Poland,POL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,298088,,,,298088,,2018832,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,616,Poland,POL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,128482,,,,128482,,471196,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,24,,,,24,,336,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1348,,,,1348,,29593,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,37,,,,37,,432,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,840050,,,,840050,,1239838,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,686,Senegal,SEN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,22000,,,,22000,,25300,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,699,India,IND,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,5473393,,,,5473393,,21292166,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,699,India,IND,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,2800,,,,2800,,26548,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,101090,,,,101090,,782304,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,4891399,,,,4891399,,33138573,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1040657,,,,1040657,,2116671,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,2034358,,,,2034358,,2769482,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,512575,,,,512575,,755177,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,191169,,,,191169,,274359,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,716,Zimbabwe,ZWE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,10254274,,,,10254274,,51000248,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,64918,,,,64918,,1077523,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,112249,,,,112249,,2228768,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,752,Sweden,SWE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,8,,,,8,,428,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,323377,,,,323377,,2738618,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,43,,,,43,,975,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1452787,,,,1452787,,7202937,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,16100,,,,16100,,57960,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,99842,,,,99842,,590937,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,799035,,,,799035,,4405561,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,788,Tunisia,TUN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,100290,,,,100290,,218155,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,5195012,,,,5195012,,37817651,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,91844,,,,91844,,231769,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,800,Uganda,UGA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,50810,,,,50810,,336777,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,807,North Macedonia,MKD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,332963,,,,332963,,2496650,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1314199,,,,1314199,,1721646,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,834,United Rep. of Tanzania,TZA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,163544,,,,163544,,647738,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,4674794,,,,4674794,,34447744,,,0
+H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,4800795,,,,4800795,,10308180,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,894,Zambia,ZMB,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,712816,,,,712816,,3540660,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,899,"Areas, nes",,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,96134,,,,96134,,542028,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,110274998,,,,110274998,,550412368,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,31131965,,,,31131965,,196007343,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,12,Algeria,DZA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,52555,,,,52555,,145051,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,20,Andorra,AND,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,14513,,,,14513,,18867,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,31,Azerbaijan,AZE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,99000,,,,99000,,473302,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,32,Argentina,ARG,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,512299,,,,512299,,2078500,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,32,Argentina,ARG,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,10000,,,,10000,,86330,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,5,,,,5,,178,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,381450,,,,381450,,2278840,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,21275,,,,21275,,134306,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,101961,,,,101961,,551339,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,3180918,,,,3180918,,31224168,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,20745354,,,,20745354,,126802392,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,246600,,,,246600,,975330,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,100,Bulgaria,BGR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,208739,,,,208739,,1837570,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,104,Myanmar,MMR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,960576,,,,960576,,1402550,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,104,Myanmar,MMR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,622,,,,622,,36580,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,112,Belarus,BLR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,71280,,,,71280,,142560,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,900427,,,,900427,,4038058,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,136215,,,,136215,,707180,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,21037,,,,21037,,429649,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1126885,,,,1126885,,17889802,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,42929182,,,,42929182,,164812706,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,472622,,,,472622,,9854029,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,9169,,,,9169,,183793,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,191,Croatia,HRV,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,178200,,,,178200,,1044164,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,192,Cuba,CUB,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,7920,,,,7920,,63906,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,24,,,,24,,479,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,10020,,,,10020,,123210,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,44900,,,,44900,,167870,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,214,Dominican Rep.,DOM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,38781,,,,38781,,1191042,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,214,Dominican Rep.,DOM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,6422954,,,,6422954,,21959331,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,218,Ecuador,ECU,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,142379,,,,142379,,6394416,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,251,France,FRA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,3,,,,3,,254,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,251,France,FRA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,37800,,,,37800,,60570,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,217784,,,,217784,,13267436,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1021026,,,,1021026,,24883266,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,300,Greece,GRC,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,137761,,,,137761,,683477,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,300,Greece,GRC,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,59406,,,,59406,,356405,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,320,Guatemala,GTM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,18000,,,,18000,,91355,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,340,Honduras,HND,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,24218,,,,24218,,1162351,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,95040,,,,95040,,739805,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,76,,,,76,,103,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,569413,,,,569413,,3352909,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,75600,,,,75600,,223417,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1767196,,,,1767196,,12568471,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,632227,,,,632227,,2091979,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,4,,,,4,,29,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,293,,,,293,,5265,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,398,Kazakhstan,KAZ,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,6,,,,6,,124,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,5,,,,5,,34,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,138600,,,,138600,,528858,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,404,Kenya,KEN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,105665,,,,105665,,556378,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,40,,,,40,,344,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,446573,,,,446573,,2215438,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,418,Lao People's Dem. Rep.,LAO,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,237633,,,,237633,,760553,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,422,Lebanon,LBN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,127679,,,,127679,,266444,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,440,Lithuania,LTU,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,7,,,,7,,76,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,454,Malawi,MWI,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1580091,,,,1580091,,8014220,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,41,,,,41,,348,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,40101,,,,40101,,122326,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,470,Malta,MLT,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,10000,,,,10000,,38500,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,11,,,,11,,112,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,39420,,,,39420,,236358,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,508,Mozambique,MOZ,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,997824,,,,997824,,5951481,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,285683,,,,285683,,5635686,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1041477,,,,1041477,,7207213,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,7,,,,7,,200,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,558,Nicaragua,NIC,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,399845,,,,399845,,3470506,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,566,Nigeria,NGA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,4,,,,4,,132,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,2016513,,,,2016513,,5291700,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,598,Papua New Guinea,PNG,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,8,,,,8,,76,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,600,Paraguay,PRY,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,230,,,,230,,17270,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,2528129,,,,2528129,,11223105,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,436334,,,,436334,,4976203,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,616,Poland,POL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1076,,,,1076,,16671,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,616,Poland,POL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,621593,,,,621593,,2279996,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,72,,,,72,,678,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,394,,,,394,,4047,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,384500,,,,384500,,674060,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1,,,,1,,22,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,688,Serbia,SRB,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,47,,,,47,,459,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,699,India,IND,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,7103575,,,,7103575,,29205440,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,699,India,IND,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,59700,,,,59700,,404289,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,143004,,,,143004,,703228,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,6056212,,,,6056212,,41934852,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,346809,,,,346809,,1286536,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,2533687,,,,2533687,,1340125,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1585055,,,,1585055,,1097884,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,716,Zimbabwe,ZWE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,10327522,,,,10327522,,46767223,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,240353,,,,240353,,1909729,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,122592,,,,122592,,1826333,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,752,Sweden,SWE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,2,,,,2,,112,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,25023,,,,25023,,951554,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,534065,,,,534065,,2678632,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,187833,,,,187833,,767462,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,553083,,,,553083,,2480796,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,788,Tunisia,TUN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,52080,,,,52080,,96348,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,4519027,,,,4519027,,27996854,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,69052,,,,69052,,302610,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,800,Uganda,UGA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,12,,,,12,,130,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,807,North Macedonia,MKD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,802785,,,,802785,,5794235,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,158600,,,,158600,,223632,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,5068,,,,5068,,36068,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,7029,,,,7029,,41329,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,834,United Rep. of Tanzania,TZA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,460682,,,,460682,,1569699,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,5603289,,,,5603289,,44900323,,,0
+H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,4299241,,,,4299241,,13342317,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,894,Zambia,ZMB,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,396025,,,,396025,,2049002,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,899,"Areas, nes",,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,72229,,,,72229,,688747,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,81501877,,,,81501877,,477261947,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,28005206,,,,28005206,,128549599,,,0
+H4,2016,2016,2016,4,0,4,Re-Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,401760,,,,401760,,2503838,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,32,Argentina,ARG,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,377244,,,,377244,,1662813,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,33780,,,,33780,,125965,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,8960,,,,8960,,20311,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,407859,,,,407859,,1024793,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,3423547,,,,3423547,,13417955,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,7006088,,,,7006088,,41597993,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,364955,,,,364955,,1748449,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,84,Belize,BLZ,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,67,,,,67,,431,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,84,Belize,BLZ,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,3,,,,3,,2,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,100,Bulgaria,BGR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,207673,,,,207673,,1046404,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,104,Myanmar,MMR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,237141,,,,237141,,723197,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,104,Myanmar,MMR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,12000,,,,12000,,84000,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,112,Belarus,BLR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,53460,,,,53460,,73240,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,97200,,,,97200,,404570,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,446171,,,,446171,,1129878,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,317766,,,,317766,,12802279,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1673131,,,,1673131,,27592649,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,39947163,,,,39947163,,210060036,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,87588,,,,87588,,1129401,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,79962,,,,79962,,183531,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,180,Dem. Rep. of the Congo,COD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,200,,,,200,,1070,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,191,Croatia,HRV,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,59400,,,,59400,,231660,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,192,Cuba,CUB,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,25210,,,,25210,,143991,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,200,,,,200,,180,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,118800,,,,118800,,552024,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,212,Dominica,DMA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,6319,,,,6319,,150408,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,214,Dominican Rep.,DOM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,32377,,,,32377,,968595,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,214,Dominican Rep.,DOM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,2431923,,,,2431923,,7210674,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,218,Ecuador,ECU,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,211309,,,,211309,,8395779,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,251,France,FRA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,31225,,,,31225,,124494,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,251,France,FRA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,32400,,,,32400,,55571,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,40011,,,,40011,,442399,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,977823,,,,977823,,15488662,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,300,Greece,GRC,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,815954,,,,815954,,4384420,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,340,Honduras,HND,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,23663,,,,23663,,1007566,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,66600,,,,66600,,261527,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,47280,,,,47280,,58951,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,40600,,,,40600,,241695,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,27120,,,,27120,,57592,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,360,Indonesia,IDN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,401760,,,,401760,,2503838,,,0
+H4,2016,2016,2016,4,0,4,Re-Import,360,Indonesia,IDN,360,Indonesia,IDN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,401760,,,,401760,,2503838,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,68989,,,,68989,,387675,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,527601,,,,527601,,933968,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,880,,,,880,,1013,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,398,Kazakhstan,KAZ,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,32,,,,32,,333,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,20,,,,20,,177,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,8442,,,,8442,,22708,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,404,Kenya,KEN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,144240,,,,144240,,473881,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,22680,,,,22680,,79624,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,37096,,,,37096,,352337,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,418,Lao People's Dem. Rep.,LAO,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,45620,,,,45620,,54885,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,422,Lebanon,LBN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,20580,,,,20580,,22638,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,440,Lithuania,LTU,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,118374,,,,118374,,242667,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,454,Malawi,MWI,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1344301,,,,1344301,,7416586,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,305693,,,,305693,,2323686,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,2261203,,,,2261203,,13243843,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,484,Mexico,MEX,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,8943,,,,8943,,315625,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,29877,,,,29877,,156288,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,508,Mozambique,MOZ,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,600920,,,,600920,,3005087,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,171859,,,,171859,,1397614,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1906257,,,,1906257,,8016281,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,558,Nicaragua,NIC,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,343373,,,,343373,,3334182,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,2929,,,,2929,,11386,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,600,Paraguay,PRY,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,17820,,,,17820,,30116,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1078985,,,,1078985,,5598140,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,335441,,,,335441,,725872,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,616,Poland,POL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1624,,,,1624,,10849,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,616,Poland,POL,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,45573,,,,45573,,1041636,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1043,,,,1043,,4497,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,642,Romania,ROU,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,19800,,,,19800,,76824,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,324388,,,,324388,,361642,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,686,Senegal,SEN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,22000,,,,22000,,23100,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,699,India,IND,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,3818230,,,,3818230,,14055177,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,164446,,,,164446,,678456,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,850716,,,,850716,,3670700,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1475650,,,,1475650,,4666666,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1468231,,,,1468231,,3100867,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,705,Slovenia,SVN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,19800,,,,19800,,27720,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,249150,,,,249150,,707306,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,716,Zimbabwe,ZWE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,4002189,,,,4002189,,24626660,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,2468,,,,2468,,18100,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,122162,,,,122162,,914461,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,752,Sweden,SWE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,39600,,,,39600,,126720,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,301471,,,,301471,,1391869,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,546,,,,546,,614,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,2148995,,,,2148995,,10920924,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,780,Trinidad and Tobago,TTO,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,19800,,,,19800,,105360,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,785461,,,,785461,,4907766,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,788,Tunisia,TUN,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,5000,,,,5000,,60600,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,5676551,,,,5676551,,44419776,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,9000,,,,9000,,9540,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,800,Uganda,UGA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,29801,,,,29801,,182225,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,37200,,,,37200,,144336,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,807,North Macedonia,MKD,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,181457,,,,181457,,1290246,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,3154239,,,,3154239,,4575832,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,264801,,,,264801,,2056651,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,290360,,,,290360,,767560,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,834,United Rep. of Tanzania,TZA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,1357658,,,,1357658,,4399369,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,7536246,,,,7536246,,59094578,,,0
+H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,5474899,,,,5474899,,11943444,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,894,Zambia,ZMB,,,,,,,,2401,"Tobacco, unmanufactured; tobacco refuse",8,Weight in kilograms,32441,,,,32441,,173870,,,0
